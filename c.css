@@ -1,0 +1,19 @@
+
+body{
+background-color: silver;
+}
+
+
+
+.c1
+{
+	border-radius: 10px;
+	background-color: black;
+	 box-shadow: 10px 10px 10px 1px grey;
+	width: 300px;
+	margin-top:  50px;
+	color: white;
+	padding: 5px;
+	font-size: 50px;
+	
+}
